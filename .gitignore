@@ -1,3 +1,5 @@
 catboost_train_dir
 .ipynb_checkpoints
 answer.csv
+__pycache__/
+CliqueFinder.py
